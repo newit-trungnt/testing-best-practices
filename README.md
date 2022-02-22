@@ -1,5 +1,10 @@
 # Testing best practices
 
+# Libs:
+
+[Jest](https://jestjs.io/) : is a delightful JavaScript Testing Framework with a focus on simplicity.
+
+
 ## The AAA pattern
 - Arrange: includes all set up code and test data you need to simulate a test scenario.
 - Act: Executes the unit test. Usually, test execution consist of one or two lines of code.
