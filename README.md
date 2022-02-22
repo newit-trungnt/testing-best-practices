@@ -3,7 +3,7 @@
 # Libs:
 
 [Jest](https://jestjs.io/) : is a delightful JavaScript Testing Framework with a focus on simplicity.
-
+[Nyc](https://github.com/istanbuljs/nyc): track how well the unit-tests exercise the codebase
 
 ## The AAA pattern
 - Arrange: includes all set up code and test data you need to simulate a test scenario.
